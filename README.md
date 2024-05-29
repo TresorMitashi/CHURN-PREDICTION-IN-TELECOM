@@ -10,6 +10,7 @@ Churn could be when a customer cancels their subscription, switches to another p
 Churn not only results in revenue loss but also affects customer acquisition costs and brand reputation. Quantify the financial implications of churn to emphasize its importance to stakeholders.
 
 1.4. Identify Key Stakeholders
+here we should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code will run with no issues using Python versions 3.*.
 This could include telecom executives, marketing teams, customer service representatives, and data analysts. Understand their perspectives and requirements to tailor your solution accordingly.
 
 1.5. Data Availability
