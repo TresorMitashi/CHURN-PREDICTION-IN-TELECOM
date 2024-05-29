@@ -39,3 +39,15 @@ Metrics: We'll implement metrics to evaluate the performance of the churn predic
 Algorithms: We'll implement machine learning algorithms commonly used for churn prediction, we will use logistic regression, random forests and support_vector_machine.
 
 Techniques: We'll implement data preprocessing techniques, feature engineering, model training, evaluation, and hyperparameter tuning (if it is necessary)
+
+# 4. File Descriptions
+
+The notebook jupyter file contains the code written to analyze the dataset, perform data preprocessing, exploratory data analysis (EDA). It include sections for data loading, data cleaning, modeling, result and conclusion.
+
+# 5. Results
+Some description of this project code can be found at the post available here: 
+
+The main findings of the code can be found at the post available.
+
+# 6. Licensing, Authors, Acknowledgements
+we found the data from dataset in https://www.kaggle.com/code/vsridevi/capstone-project-churn-prediction#Exploratory-Data-Analysis
