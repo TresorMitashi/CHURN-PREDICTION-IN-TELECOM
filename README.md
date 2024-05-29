@@ -51,4 +51,4 @@ Some description of this project code can be found at the post available here:
 The main findings of the code can be found at the post available.
 
 # 6. Licensing, Authors, Acknowledgements
-we found the data from dataset in https://www.kaggle.com/code/vsridevi/capstone-project-churn-prediction#Exploratory-Data-Analysis
+we found the data from dataset in https://github.com/KodwoAmissah/Churn-Analysis-LP2-Project-
