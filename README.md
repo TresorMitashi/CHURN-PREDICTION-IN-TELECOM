@@ -46,7 +46,7 @@ Techniques: We'll implement data preprocessing techniques, feature engineering, 
 The notebook jupyter file contains the code written to analyze the dataset, perform data preprocessing, exploratory data analysis (EDA). It include sections for data loading, data cleaning, modeling, result and conclusion.
 
 # 5. Results
-Some description of this project code can be found at the post available here: 
+Some description of this project code can be found at the post available here: https://medium.com/@snipermitashi/predicting-customer-churn-in-telecom-an-end-to-end-data-science-project-nanodegree-0028a6e6281b
 
 The main findings of the code can be found at the post available.
 
